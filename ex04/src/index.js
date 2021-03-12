@@ -9,4 +9,4 @@ function main() {
     };
 }
 console.log(main());
-module.exportts = main;
+module.exports = main;
